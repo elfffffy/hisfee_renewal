@@ -1,192 +1,13 @@
 @charset "UTF-08";
 
-@font-face {
-    font-family: 'Pretendard';
-    src: url('font/프리텐다드/Pretendard-Bold.eot');
-    src: url('font/프리텐다드/Pretendard-Bold.eot?#iefix') format('embedded-opentype'),
-        url('font/프리텐다드/Pretendard-Bold.woff2') format('woff2'),
-        url('font/프리텐다드/Pretendard-Bold.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('font/프리텐다드/Pretendard-Black.eot');
-    src: url('font/프리텐다드/Pretendard-Black.eot?#iefix') format('embedded-opentype'),
-        url('font/프리텐다드/Pretendard-Black.woff2') format('woff2'),
-        url('font/프리텐다드/Pretendard-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('font/프리텐다드/Pretendard-ExtraBold.eot');
-    src: url('font/프리텐다드/Pretendard-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('font/프리텐다드/Pretendard-ExtraBold.woff2') format('woff2'),
-        url('font/프리텐다드/Pretendard-ExtraBold.woff') format('woff');
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('font/프리텐다드/Pretendard-ExtraLight.eot');
-    src: url('font/프리텐다드/Pretendard-ExtraLight.eot?#iefix') format('embedded-opentype'),
-        url('font/프리텐다드/Pretendard-ExtraLight.woff2') format('woff2'),
-        url('font/프리텐다드/Pretendard-ExtraLight.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('font/프리텐다드/Pretendard-Light.eot');
-    src: url('font/프리텐다드/Pretendard-Light.eot?#iefix') format('embedded-opentype'),
-        url('font/프리텐다드/Pretendard-Light.woff2') format('woff2'),
-        url('font/프리텐다드/Pretendard-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('font/프리텐다드/Pretendard-Medium.eot');
-    src: url('font/프리텐다드/Pretendard-Medium.eot?#iefix') format('embedded-opentype'),
-        url('font/프리텐다드/Pretendard-Medium.woff2') format('woff2'),
-        url('font/프리텐다드/Pretendard-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('font/프리텐다드/Pretendard-Regular.eot');
-    src: url('font/프리텐다드/Pretendard-Regular.eot?#iefix') format('embedded-opentype'),
-        url('font/프리텐다드/Pretendard-Regular.woff2') format('woff2'),
-        url('font/프리텐다드/Pretendard-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('font/프리텐다드/Pretendard-SemiBold.eot');
-    src: url('font/프리텐다드/Pretendard-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('font/프리텐다드/Pretendard-SemiBold.woff2') format('woff2'),
-        url('font/프리텐다드/Pretendard-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretendard';
-    src: url('font/프리텐다드/Pretendard-Thin.eot');
-    src: url('font/프리텐다드/Pretendard-Thin.eot?#iefix') format('embedded-opentype'),
-        url('font/프리텐다드/Pretendard-Thin.woff2') format('woff2'),
-        url('font/프리텐다드/Pretendard-Thin.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-
-/* ----------------------------------------------------------------------------- */
-
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url('font/LexendDeca/LexendDeca-Bold.woff2') format('woff2'),
-        url('font/LexendDeca/LexendDeca-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url('font/LexendDeca/LexendDeca-Black.woff2') format('woff2'),
-        url('font/LexendDeca/LexendDeca-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url('font/LexendDeca/LexendDeca-SemiBold.woff2') format('woff2'),
-        url('font/LexendDeca/LexendDeca-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url('font/LexendDeca/LexendDeca-ExtraBold.woff2') format('woff2'),
-        url('font/LexendDeca/LexendDeca-ExtraBold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url('font/LexendDeca/LexendDeca-Medium.woff2') format('woff2'),
-        url('font/LexendDeca/LexendDeca-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url('font/LexendDeca/LexendDeca-ExtraLight.woff2') format('woff2'),
-        url('font/LexendDeca/LexendDeca-ExtraLight.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url('font/LexendDeca/LexendDeca-Light.woff2') format('woff2'),
-        url('font/LexendDeca/LexendDeca-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url('font/LexendDeca/LexendDeca-Regular.woff2') format('woff2'),
-        url('font/LexendDeca/LexendDeca-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url('font/LexendDeca/LexendDeca-Thin.woff2') format('woff2'),
-        url('font/LexendDeca/LexendDeca-Thin.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
+@import url('font.css');
 
 /* ----------------------------------------------------------------------------- */
 
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 a {
@@ -204,29 +25,28 @@ body {
     line-height: 1;
 }
 
+.inner {
+    width: 1440px;
+    margin: 0 auto;
+}
+
 .intro .header {
     width: 100%;
     height: 100px;
     background-color: #2C0B0B;
-    position: fixed;
-    top: 0;
-    z-index: 99;
 }
 
 .intro .header .inner {
-    width: 1440px;
     height: 100%;
-    margin: 0 auto;
-
     display: flex;
     justify-content: space-between;
 }
 
-.intro .header .inner a img{
+.intro .header .inner a img {
     height: 100%;
 }
 
-.intro .header .inner .nav ul{
+.intro .header .inner .nav ul {
     height: 100%;
     align-items: center;
     display: flex;
@@ -241,7 +61,6 @@ body {
 
 .intro .main .main_visual {
     width: 100%;
-    height: 960px;
 }
 
 .intro .main .main_visual .video_box {
@@ -252,34 +71,46 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    display: block;
 }
 
 .intro .main .main_visual .video_box .text_box {
     position: absolute;
     top: 40%;
-    left: 12.7%;
-    font-family: 'Lexend Deca';
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "PT Serif", serif;
     color: #fff;
+    opacity: 0.9;
 }
 
 .intro .main .main_visual .video_box .text_box h2 {
-    font-weight: 400;
-    font-size: 50px;
+    font-weight: 700;
+    font-size: 60px;
     margin-bottom: 50px;
 }
 
-.intro .main .main_visual .video_box .text_box ul {
-    display: flex;
-}
-
-.intro .main .main_visual .video_box .text_box ul li:first-child a {
-    font-weight: 300;
+.intro .main .main_visual .video_box .text_box button {
     font-size: 20px;
+    font-family: "PT Serif", serif;
+    color: #fff;
+    opacity: 0.9;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+
+    position: relative;
 }
 
-.intro .main .main_visual .video_box .text_box ul li:last-child a img {
-    margin-left: 18px;
-    margin-top: 3px;
+.intro .main .main_visual .video_box .text_box button::before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    background: url('../img/chevron-right.svg') center center / 100% no-repeat;
+    position: absolute;
+    top: calc(50% + 1px);
+    right: -30px;
+    transform: translateY(-50%);
 }
 
 /* ----------------------------------------------------------------------------- */
@@ -302,19 +133,20 @@ body {
 .brand_introduce .words h1 {
     color: #CAA715;
     font-size: 25px;
-    margin-bottom: 15px;
-    font-family: 'Lexend Deca';
-    font-weight: 500;
+    line-height: 1.3;
+    margin-bottom: 20px;
+    font-family: "PT Serif", serif;
+    font-weight: 400;
 }
 
 .brand_introduce .words img {
-    width: 343px;
-    height: 343px;   
+    width: 300px;
+    height: 300px;
 }
 
 .brand_introduce .words h2 {
-    font-size: 35px;
-    line-height: 45.5px;
+    font-size: 30px;
+    line-height: 1.3;
     color: #fff;
     font-weight: 400;
     margin: 25px 0 45px;
@@ -326,10 +158,11 @@ body {
 }
 
 .brand_introduce .point_wrap .point {
-    width: 343px;
-    height: 343px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(5px);
     margin-left: -40px;
     position: relative;
 }
@@ -338,7 +171,7 @@ body {
     margin-left: 0;
 }
 
-.brand_introduce .point_wrap .point > div {
+.brand_introduce .point_wrap .point>div {
     width: 100%;
 
     position: absolute;
@@ -352,13 +185,13 @@ body {
     align-items: center;
 }
 
-.brand_introduce .point_wrap .point > div img {
-    width: 80px;
-    height: 80px;
+.brand_introduce .point_wrap .point>div img {
+    width: 70px;
+    height: 70px;
     object-fit: cover;
 }
 
-.brand_introduce .point_wrap .point > div p {
+.brand_introduce .point_wrap .point>div p {
     color: #fff;
     margin-top: 30px;
     font-weight: 500;
@@ -368,6 +201,15 @@ body {
 }
 
 /* ----------------------------------------------------------------------------- */
+.menu {
+    margin-bottom: 150px;
+}
+.menu .inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
 
 .menu .title {
     width: 1440px;
@@ -379,11 +221,7 @@ body {
     font-family: 'Lexend Deca';
     font-weight: 700;
     font-size: 60px;
-    margin-bottom: 15px;
-}
-
-.menu .title .nav {
-    margin-bottom: 45px;
+    margin-bottom: 30px;
 }
 
 .menu .title .nav ul {
@@ -392,14 +230,14 @@ body {
 }
 
 .menu .title .nav ul li {
-    margin-right: 25px;
+    margin-right: 20px;
     width: 100px;
     height: 40px;
     line-height: 40px;
     text-align: center;
 }
 
-.menu .title .nav ul li:last-child{
+.menu .title .nav ul li:last-child {
     margin-right: 0;
 }
 
@@ -459,22 +297,17 @@ body {
     font-weight: bold;
 }
 
-.menu .more_btn {
-    display: block;
-
+.menu button {
     width: 150px;
     height: 50px;
-
     border: 2px solid #2C0B0B;
     border-radius: 25px;
-
     text-align: center;
     line-height: 50px;
-
-    margin: 0 auto 150px;
-
-    font-family: 'Lexend Deca';
-    font-weight: 300px;
+    font-family: "PT Serif", serif;
+    font-size: 16px;
+    font-weight: 400px;
+    background-color: transparent;
 }
 
 /* ----------------------------------------------------------------------------- */
@@ -489,7 +322,7 @@ body {
     font-family: 'Lexend Deca';
     font-weight: 700;
     font-size: 60px;
-    margin-bottom: 45px;
+    margin-bottom: 50px;
 }
 
 .info .item_wrap {
@@ -518,36 +351,124 @@ body {
 }
 
 .info .item_wrap .item .text {
-    margin-top: 30px;
-}
-.info .item_wrap .item .text h2 {
-    font-size: 35px;
-    margin-bottom: 15px;
-}
-.info .item_wrap .item .text p {
-    font-size: 25px;
-}
-.info .item_wrap .item .btn {
-    margin-top: 52px;
+    margin-top: 20px;
 }
 
-.info .item_wrap .item .btn a {
-    display: flex;
-    align-items: center;
-    gap: 20px;
+.info .item_wrap .item .text h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    font-family: "PT Serif", serif;
 }
-.info .item_wrap .item .btn a span {
-    font-size: 25px;
+
+.info .item_wrap .item .text p {
+    font-size: 20px;
+    line-height: 1.3;
 }
-.info .item_wrap .item .btn a img {
-    height: 18px;
+
+.info button {
+    font-size: 18px;
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    margin-top: 20px;
+}
+
+.info button::before {
+    content: '';
+    width: 16px;
+    height: 16px;
+    background: url('../img/화살표.png') center center / 100% no-repeat;
+    position: absolute;
+    top: 50%;
+    right: -25px;
+    transform: translateY(-50%);
+}
+
+.info .map button {
+    margin-bottom: 20px;
 }
 
 .info .item_wrap .item:nth-child(2) .text {
     margin-top: 0;
 }
+
 .info .item_wrap .item:nth-child(2) .btn {
     margin-bottom: 25px;
 }
 
+.notice {
+    margin-bottom: 150px;
+}
 
+.notice .inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.notice .title h1 {
+    text-align: center;
+    font-family: 'Lexend Deca';
+    font-weight: 700;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+.notice  .title .nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+.notice .title .nav ul li {
+    margin-right: 20px;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.notice .title .nav ul li:last-child {
+    margin-right: 0;
+}
+
+.notice  .title .nav ul li a {
+    width: 100%;
+    height: 100%;
+}
+
+.notice  .title .nav ul li:first-child {
+    background-color: #2C0B0B;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.notice  .title .nav ul li:hover {
+    background-color: #2C0B0B;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.notice .item_wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.notice .item_wrap .item {
+    padding: 20px;
+    width: 33%;
+    border: 2px solid #2C0B0B;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.notice .item_wrap .item figure {
+    width: 430px;
+    height: 300px;
+}
+
+.notice .item_wrap .item figure img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
